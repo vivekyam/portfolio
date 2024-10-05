@@ -1,0 +1,47 @@
+
+/* Vivek.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    font-family: 'Arial Black', sans-serif;
+}
+
+ul.skills {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.skills li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #ccc;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
